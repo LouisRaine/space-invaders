@@ -1,0 +1,7 @@
+-std=c++11
+-Wall
+-Wextra
+-I/opt/homebrew/opt/raylib/include
+-I/Users/louisraine/personal/space-invaders/src
+-L/opt/homebrew/opt/raylib/lib-lraylib
+-lm
