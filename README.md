@@ -1,4 +1,4 @@
 - Runs on mac with raylib 5.0
 - Compile bash script should be updated for local include and linking of raylib
-- Game current spawns 10 enemies which you can shoot
+- Game currently spawns 10 enemies which you can shoot
 - Needs animating enemies and a loss condition
